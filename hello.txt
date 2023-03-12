@@ -17,3 +17,4 @@ hello world! hello git!
 hello world! hello git!
 hello world! hello git!master change
 hello world! hello git!hot-fix change
+push and pull
